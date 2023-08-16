@@ -18,11 +18,11 @@ This project focuses on leveraging the power of NumPy, Pandas, Matplotlib, and S
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/data-analysis-visualization.git
+   `git clone https://github.com/yourusername/data-analysis-visualization.git`
 
 3. Install the required libraries:
    
-   pip install numpy pandas matplotlib seaborn
+   `pip install numpy pandas matplotlib seaborn`
 
 ## Data Loading and Preprocessing
 
