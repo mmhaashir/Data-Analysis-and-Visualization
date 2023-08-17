@@ -7,11 +7,11 @@ This project demonstrates the use of Python's popular data manipulation and visu
 ## Table of Contents
 
 - [**Introduction**](#intro)
-- **Getting Started**(#getting_started)
-- **Data Loading and Preprocessing**(#data_loading)
-- **Data Analysis**(#data_analysis)
-- **Data Visualization**(#data_visualization)
-- **Conclusion**(#conclusion)
+- [**Getting Started**](#getting_started)
+- [**Data Loading and Preprocessing**](#data_loading)
+- [**Data Analysis**](#data_analysis)
+- [**Data Visualization**](#data_visualization)
+- [**Conclusion**](#conclusion)
   
 ## Introduction <a name="intro"></a>
 This project focuses on leveraging the power of NumPy, Pandas, Matplotlib, and Seaborn to perform data analysis and visualization. The libraries are used to manipulate, clean, analyze, and visualize a dataset, demonstrating their roles in real-world data science projects.
